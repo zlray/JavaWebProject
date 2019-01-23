@@ -17,12 +17,12 @@
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/src/spring_config.xml</file>
-          <file>file://$MODULE_DIR$/src/spring_config.xml</file>
-          <file>file://$MODULE_DIR$/src/main/java/SpringBeanAutowire/beans_autowire.xml</file>
-          <file>file://$MODULE_DIR$/src/service/beans_scope.xml</file>
+          <file>file://$MODULE_DIR$/src/beans_autowire.xml</file>
+          <file>file://$MODULE_DIR$/src/beans_cycle.xml</file>
           <file>file://$MODULE_DIR$/src/beans_properties.xml</file>
+          <file>file://$MODULE_DIR$/src/beans_scope.xml</file>
           <file>file://$MODULE_DIR$/src/beans_spel.xml</file>
+          <file>file://$MODULE_DIR$/src/spring_config.xml</file>
         </fileset>
       </configuration>
     </facet>
@@ -36,11 +36,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="JavaWebProject" level="project" />
-    <orderEntry type="library" name="servlet-api" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.13" level="project" />
     <orderEntry type="library" name="Spring-4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="c3p0-0.9.5.2" level="project" />
     <orderEntry type="library" name="c3p0-oracle-thin-extras-0.9.5.2" level="project" />
     <orderEntry type="library" name="mchange-commons-java-0.2.11" level="project" />
+    <orderEntry type="library" name="servlet-api" level="project" />
   </component>
 </module>

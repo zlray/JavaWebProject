@@ -33,6 +33,7 @@
     //servlet传递到另一个servlet
     Object msg = "";
     msg = request.getAttribute("error");
+
     if (msg != null) {
         //请求转发
         System.out.println(msg);

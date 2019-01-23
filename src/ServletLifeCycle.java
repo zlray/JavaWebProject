@@ -21,16 +21,6 @@ public class ServletLifeCycle extends HttpServlet {
         System.out.println("servlet life cycle");
     }
 
-    protected void doPost(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
-
-    }
-
-    protected void doGet(HttpServletRequest request,HttpServletResponse response)
-            throws ServletException, IOException {
-
-    }
-
     @Override
     public void destroy() {
         super.destroy();

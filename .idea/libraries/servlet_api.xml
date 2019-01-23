@@ -4,6 +4,24 @@
       <root url="jar://C:/Program Files/apache-tomcat-7.0.91-windows-x64/apache-tomcat-7.0.91/lib/servlet-api.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://C:/Program Files/apache-tomcat-7.0.91-windows-x64/apache-tomcat-7.0.91/lib/servlet-api.jar!/" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/modules/jdbc-pool/src/main/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/modules/jdbc-pool/src/test/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/test" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/webapps/docs/appdev/sample/src" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/webapps/examples/WEB-INF/classes" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/apache-tomcat-7.0.92-src/webapps/examples/jsp/plugin/applet" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/modules/jdbc-pool/src/main/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/modules/jdbc-pool/src/test/java" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/test" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/webapps/docs/appdev/sample/src" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/webapps/examples/WEB-INF/classes" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://C:/apache-tomcat-7.0.92-src/webapps/examples/jsp/plugin/applet" />
+    </SOURCES>
   </library>
 </component>
