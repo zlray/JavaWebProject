@@ -43,5 +43,7 @@
     <orderEntry type="library" name="mchange-commons-java-0.2.11" level="project" />
     <orderEntry type="library" name="servlet-api" level="project" />
     <orderEntry type="library" name="jsp-api-2.0" level="project" />
+    <orderEntry type="library" name="jstl" level="project" />
+    <orderEntry type="library" name="standard" level="project" />
   </component>
 </module>
